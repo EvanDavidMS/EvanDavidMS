@@ -1,5 +1,5 @@
 <!-- banner -->
-<img src="https://github.com/EvanDavidMS/EvanDavidMS/blob/main/Banner.png">
+<img src="https://github.com/EvanDavidMS/EvanDavidMS/blob/main/Banner Github.png">
 
 <h3>Hola! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"><br>Mi nombre es Evan David.</h3>
 <hr>
